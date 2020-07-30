@@ -51,7 +51,7 @@
 ///集成越少插件的固件越低概率出bug ——Lean                     
 
 # 相关工具            
-* [PE下IMG写入硬盘软件](https://github.com/OPisthebest/OP-is-the-best/releases/tag/DiskImg.exe1.2)       
+* [PE下IMG写入硬盘软件](https://github.com/OPisthebest/DiskImg/releases/tag/DiskImg.exe1.2)         
 * [IMG写入TF卡软件](https://github.com/balena-io/etcher/releases)         
 * [IMG转VMDK](https://github.com/OPisthebest/StarWindConverter/releases)            
 * [微PE启动盘](http://www.wepe.com.cn/download.html)           
